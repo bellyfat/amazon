@@ -4,13 +4,12 @@
     'name': 'Amazon Integration',
     'summary': """
         Amazon Integration""",
-    'version': '12.0.1.0.0',
+    'version': '13.0.1.0.0',
     'license': 'AGPL-3',
-    'website': 'https://github.com/OCA/connector-ecommerce',
+    'website': 'https://github.com/domatix/amazon',
     'depends': ['sale_management', 'stock'],
     'category': 'Sales',
-    'author': 'Domatix, '
-              'Odoo Community Association (OCA)',
+    'author': 'Domatix',
     'external_dependencies': {
         'python': [
             'mws',
